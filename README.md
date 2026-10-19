@@ -1,4 +1,4 @@
-# Langr Client (Potato)
+# Langr Client
 
 A comprehensive Fabric-based utility mod and PvP client designed for Minecraft 1.21 and 1.21.1.[cite: 1] Built with a highly customizable ClickGUI and an advanced event-driven architecture, this mod features specialized modules for Crystal PvP (CPvP), movement optimization, and combat assistance.[cite: 1]
 
